@@ -1,3 +1,5 @@
+print("Programa para calcular la Secuencia de Fibonacci, versión 2.0")
+
 def fibonacci(n):
         
     if n == 0:
